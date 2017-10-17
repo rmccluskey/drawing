@@ -1,0 +1,16 @@
+{
+  "name": "drawing",
+  "version": "0.0.1",
+  "description": "",
+  "main": "draw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan McCluskey",
+  "license": "MIT",
+  "devDependencies": {
+    "rxjs": "^5.4.3",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.3"
+  }
+}
